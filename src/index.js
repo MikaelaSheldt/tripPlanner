@@ -2,7 +2,7 @@ console.log("I'm working");
 
 const mapboxgl = require("mapbox-gl");
 
-mapboxgl.accessToken = "YOUR API TOKEN HERE";
+mapboxgl.accessToken = "pk.eyJ1IjoibWlrYWVsYXNoZWxkdCIsImEiOiJjanI4YWp5dXMwNHJnNDNud2UyMTcxN242In0.Lu7BECjodXBxgJZdwtbenQ";
 
 const map = new mapboxgl.Map({
   container: "map",
